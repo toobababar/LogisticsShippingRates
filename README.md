@@ -1,3 +1,4 @@
+This repository serves as a practice project developed to enhance my skills in version control concepts using Git and GitHub.
 # LogisticsShippingRates
 
 Please consider the below factors while contributing
